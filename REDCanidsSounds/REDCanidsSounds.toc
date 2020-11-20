@@ -1,0 +1,8 @@
+## Interface: 90002
+## Title: RED Canids Sounds
+## Notes: RED Canids custom sounds
+## Author: Hufibek - Azralon
+## Dependencies: SharedMedia
+## Version: 9.0.2
+
+main.lua
