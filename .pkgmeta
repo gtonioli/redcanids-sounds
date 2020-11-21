@@ -1,1 +1,4 @@
 package-as: REDCanidsSounds
+
+ignore:
+    - README.md
