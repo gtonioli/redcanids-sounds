@@ -3,6 +3,6 @@
 ## Notes: RED Canids custom sounds
 ## Author: Hufibek - Azralon
 ## Dependencies: SharedMedia
-## Version: 9.0.2
+## Version: 1.1
 
 main.lua
